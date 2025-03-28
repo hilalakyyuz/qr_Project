@@ -1,0 +1,30 @@
+[
+  {
+    "title": "İphone 16",
+    "image": "assets/device/iphone.jpeg"
+  },
+  {
+    "title": "İphone 14",
+    "image": "assets/device/iphone.webp"
+  },
+  {
+    "title": "PDF",
+    "image": "assets/device/yazi.pdf"
+  },
+  {
+    "title": "Redmi",
+    "image": "olmayanresim"
+  },
+  {
+    "title": "İpad",
+    "image": "assets/device/tablet.png"
+  },
+  {
+    "title": "Samsung 7",
+    "image": "assets/device/tel.avif"
+  },
+  {
+    "title": "Samsung 27",
+    "image": "assets/device/tel.jpg"
+  }
+]
